@@ -1,5 +1,4 @@
 # ns-allinone-3.26
-NS3
 
 シミュレーターリンク  
 URL:https://www.nsnam.org/
