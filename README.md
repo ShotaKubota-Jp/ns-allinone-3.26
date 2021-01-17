@@ -1,4 +1,5 @@
 # ns-allinone-3.26
+NS3
 
 シミュレーターリンク  
 URL:https://www.nsnam.org/
@@ -10,7 +11,7 @@ URL:https://link.springer.com/chapter/10.1007/978-3-319-65521-5_28
 
 本コードは、シミュレーターリンクNS3を改造したものとなります。
 
-大本と異なる  
+元と異なる点  
 ・DSRを改造
 
 DSRは若干故障しております。  
